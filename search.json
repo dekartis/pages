@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Welcome To Our Blog",
@@ -14,11 +7,18 @@
     "text": "This is the first post in a Quarto blog. Welcome!"
   },
   {
+    "objectID": "posts/nn-with-graphs-intro/index.html",
+    "href": "posts/nn-with-graphs-intro/index.html",
+    "title": "Intro to ML with graphs",
+    "section": "",
+    "text": "This is a post with executable code as an intro to ML with graphs."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "blog",
     "section": "",
-    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2022\n\n\nSandra & Deb\n\n\n\n\n\n\nNo matching items"
+    "text": "news\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2022\n\n\nSandra & Deb\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nML\n\n\ngraphs\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2022\n\n\nSandra\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
